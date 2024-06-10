@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Iago Gomes 🖐️
 <div>
-   <a href="https://www.linkedin.com/in/iago-gomes-1b92a4246/" target="_blank">
+   <a href="https://www.linkedin.com/in/-iagogomes" target="_blank">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
    </a>
 <div/>
