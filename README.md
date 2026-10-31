@@ -5,7 +5,6 @@
    </a>
 <div/>
 <div>
-    <h2>Tecnologias que uso no meu dia a dia</h2>
     <div>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
@@ -36,4 +35,3 @@
        <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn Badge">
     <div/>
 </div><br>
-Desenvolvedor Front-end, apaixonado por tecnologia.
